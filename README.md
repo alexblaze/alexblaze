@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @sanjaythakur
 - 👀 I’m interested in building stuffs.
-- 🌱 I’m currently learning react, javascript, Db and stuffs.
-- 💞️ I’m looking to collaborate on frontend projects.
+- 🌱 I’m currently working with my budies: react, django javascript, html, css.
+- 🏫 Learning Docker, Ansible Automation Platform, Puppet, Kubernetes.
+- 💞️ I’m looking to collaborate on Web projects.
 - 📫 How to reach me sanjaythakur.com.np
 
 <!---
